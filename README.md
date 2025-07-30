@@ -31,6 +31,3 @@ A sleek and responsive **Body Mass Index (BMI) Calculator** built using **ReactJ
 | **CSS3**        | Styling and layout                   |
 
 ---
-
-## 📂 Project Structure
-
